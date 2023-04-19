@@ -1,0 +1,37 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,6.0.11+dfsg-1~bpo11+1*%
+%TF.CreationDate,2023-03-01T10:40:03+08:00*%
+%TF.ProjectId,MiniLFO v1.0 - Front,4d696e69-4c46-44f2-9076-312e30202d20,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Top*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 6.0.11+dfsg-1~bpo11+1) date 2023-03-01 10:40:03*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10O,4.200000X4.200000*%
+%ADD11C,7.000000*%
+%ADD12C,8.000000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,REF\u002A\u002A*%
+X146600000Y-172500000D03*
+X146600000Y-50000000D03*
+%TD*%
+D11*
+%TO.C,REF\u002A\u002A*%
+X143950000Y-70900000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X144000000Y-156700000D03*
+%TD*%
+D12*
+%TO.C,REF\u002A\u002A*%
+X144000000Y-111000000D03*
+%TD*%
+%TO.C,REF\u002A\u002A*%
+X143950000Y-90750000D03*
+%TD*%
+M02*
