@@ -1,16 +1,16 @@
-null,Sourced,Placed,References,Value,Footprint,Quantity
-1,✓,✓,"C3, C6",22uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,2
-2,✓,✓,"C4, C5",100nF,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,2
-3,,,C1,10uF,Capacitor_Radial_D5.0mm_P2.5mm,1
-4,,,C2,10nF,Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm,1
-5,✓,✓,"R2, R3, R4",100k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3
-6,✓,✓,"R7, R8",1k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2
-7,✓,✓,R1,470,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1
-8,✓,✓,R5,4.7k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1
-9,✓,✓,R6,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1
-10,,,D1,LED_Dual_Bidirectional,LED_D3.0mm,1
-11,✓,✓,U1,TL074,SOIC-14_3.9x8.7mm_P1.27mm,1
-12,,,"RANGE1, TIME1",B100k,Potentiometer_RV09,2
-13,,,RANGE_SW1,SW_SPDT,ToggleSwitch_MTS-102_SPDT,1
-14,,,TRI_OUT1,AudioJack2_SwitchT,AudioJack_3.5mm,1
-15,,,J1,IDC_2x05,IDC-Header_2x05_P2.54mm_Vertical,1
+"null","Sourced","Placed","References","Value","Footprint","Manufacturers Name","Manufacturers Part Number","Quantity"
+1,"✓","✓","C3, C6","22uF","C_0805_2012Metric_Pad1.18x1.45mm_HandSolder","YAGEO","CC0805KRX7R9BB104",2
+2,"✓","✓","C4, C5","100nF","C_0603_1608Metric_Pad1.08x0.95mm_HandSolder","KEMET","R82EC3100DQ70K ",2
+3,"","","C1","10uF","Capacitor_Radial_D5.0mm_P2.5mm"," Panasonic","ECE-A1VN100UB",1
+4,"","","C2","10nF","Capacitor_Rect_L7.2mm_W2.5mm_P5.00mm","KEMET","MMK5103K50J01L4BULK",1
+5,"✓","✓","R2, R3, R4","100k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","YAGEO","RC0603FR-07100KL ",3
+6,"✓","✓","R7, R8","1k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","YAGEO","RC0603FR-071KL ",2
+7,"✓","✓","R1",470,"R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","YAGEO","RC0603FR-7W470RL",1
+8,"✓","✓","R5","4.7k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","YAGEO","RC0603FR-074K7L",1
+9,"✓","✓","R6","10k","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","YAGEO","AC0603FR-0710KL",1
+10,"","","D1","LED_Dual_Bidirectional","LED_D3.0mm","KENTO","3ARG4HWC",1
+11,"✓","✓","U1","TL074","SOIC-14_3.9x8.7mm_P1.27mm","STMicroelectronics","TL074ACDT",1
+12,"","","RANGE1, TIME1","B100k","Potentiometer_RV09","Alpha (Taiwan)","RV09AF-40-20K-B100K",2
+13,"","","RANGE_SW1","MTS-102 SPDT","ToggleSwitch_MTS-102_SPDT","Tayda Electronics","Mini Toggle Switch SPDT On-On",1
+14,"","","TRI_OUT1","PJ-3001F","AudioJack_3.5mm","Tayda Electronics","PJ-3001F",1
+15,"","","J1","IDC_2x05","IDC-Header_2x05_P2.54mm_Vertical","XKB Connectivity ","X9555WV-2X05-6TV01",1
